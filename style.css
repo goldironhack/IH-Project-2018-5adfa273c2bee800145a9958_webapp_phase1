@@ -1,0 +1,40 @@
+header{
+    width: 100%;
+    text-align: center;
+    background-color: burlywood
+}
+
+#gMapContainer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 600px;
+}
+
+#SelectionTittle {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+table, th, td{
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+#tableWrapper {
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+
+#tableScroll {
+    height: 300px;
+    overflow: auto;
+    margin-top: 20px;
+}
+#search {
+    align-content: center;
+}
